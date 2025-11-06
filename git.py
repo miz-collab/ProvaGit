@@ -1,2 +1,5 @@
 print("Versione 1")
 print ("Branch1")
+print("v2-branch1")
+print("Sei su nuova funzione")
+print("v2")
